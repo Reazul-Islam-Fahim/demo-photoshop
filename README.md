@@ -21,7 +21,7 @@ This is a simple Photoshop-like web application with layered image editing featu
 
 - Frontend: React, React Konva
 - Backend: Django REST Framework, MySQL
-- Database: PostgreSQL
+- Database: PostgreSQL/MySQL
 
 ---
 
@@ -46,7 +46,7 @@ This is a simple Photoshop-like web application with layered image editing featu
    pip install -r requirements.txt
    ```
 
-4. Configure MySQL database settings in `photoshop_clone/settings.py`:
+4. Configure PostgreSQL/MySQL database settings in `photoshop_clone/settings.py`:
    ```python
    DATABASES = {
        'default': {
