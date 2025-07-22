@@ -30,9 +30,9 @@ This is a simple Photoshop-like web application with layered image editing featu
 ### Backend
 
 1. Navigate to the `backend` directory:
-   \`\`\`bash
+   ```bash
    cd backend
-   \`\`\`
+   ```
 
 2. Create a virtual environment and activate it:
    \`\`\`bash
