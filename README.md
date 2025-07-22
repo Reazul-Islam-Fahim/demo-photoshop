@@ -21,7 +21,7 @@ This is a simple Photoshop-like web application with layered image editing featu
 
 - Frontend: React, React Konva
 - Backend: Django REST Framework, MySQL
-- Database: MySQL
+- Database: PostgreSQL
 
 ---
 
