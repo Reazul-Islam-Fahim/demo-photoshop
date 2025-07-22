@@ -1,5 +1,5 @@
 
-# Photoshop Clone Web App
+# Demo Photoshop Web App
 
 This is a simple Photoshop-like web application with layered image editing features.
 
